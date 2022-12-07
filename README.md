@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fmicroverse&psig=AOvVaw0WLXyWBbF0vEkXZK7Osr4E&ust=1670482418477000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCND2_ov25vsCFQAAAAAdAAAAABAE" alt="logo" width="140"  height="auto" />
   <br/>
 
 
@@ -87,7 +87,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
-To get a local clone the repository https://github.com/NATASHA-ct/Backend_Hello_Rails_React.git
+To get a local clone the repository https://github.com/aneallaryea100/hello-rails-back-end.git
 
 ### Prerequisites
 
